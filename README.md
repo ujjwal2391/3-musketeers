@@ -11,3 +11,5 @@ Our team, consisting of Vaibhav (2310992392), Ujjwal Goyal (2310992391), and Tya
 Thank you for your attention.
 for ownership,contributions and timings refer to the following link:
 https://1drv.ms/x/c/f1a2ab1fc684b049/Ecm9w7qq0ipKj1hiDikGnCQB_V2Dv0LfQ2eK3brXBT3E0g?e=go2mfb
+our basic plan:
+1) Release of version 1.0 upto 4/5/2024
